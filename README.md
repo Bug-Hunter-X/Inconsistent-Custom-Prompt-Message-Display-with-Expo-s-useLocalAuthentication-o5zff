@@ -1,0 +1,1 @@
+This repository demonstrates a bug in Expo's `useLocalAuthentication` hook where custom prompt messages are not consistently displayed during biometric authentication. The bug is intermittent, sometimes showing the custom message and sometimes defaulting to the system message. The solution provides a workaround to increase the reliability of custom prompt message display.
